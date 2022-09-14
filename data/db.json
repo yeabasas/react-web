@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "No",
+      "author": "asas",
+      "body": "No it is not me",
+      "id": 2
+    },
+    {
+      "title": "afer blu",
+      "body": "when you like to do things that is not appropriate afer blu",
+      "author": "Yeab",
+      "id": 5
+    },
+    {
+      "title": "yeabadfasdf",
+      "body": "When the gate voltage is lower than the threshold, no such channel exists, and the switch\nis considered open.\nTwo types of MOSFET devices can be identified. The NMOS transistor consists of\nn + drain and source regions, embedded in a p-type substrate. The current is carried by\nelectrons moving through an n-type channel between source and drain. This is in contrast\nwith the pn-junction diode, where current is carried by both holes and electrons. MOS\ndevices can also be made by using an n-type substrate and p + drain and source regions. In\nsuch a transistor, current is carried by holes moving through a p-type channel. The device\nis called a p-channel MOS, or PMOS transistor. In a complementary MOS technology\n(CMOS), both devices are present. The cross-section of a contemporary dual-well CMOS\nprocess was presented in Chapter 2, and is repeated here for convenience",
+      "author": "Yeab",
+      "id": 6
+    }
+  ]
+}

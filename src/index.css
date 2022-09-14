@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,400;0,700;1,500&display=swap');
+
+*{
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+.navbar{
+  margin: 0 auto;
+  padding: 30px;
+  max-width: 600px;
+  border-bottom: 2px solid #f2f2;
+  display: flex;
+  align-items: center;
+}
+
+.navbar h1{
+  color: red;
+}
+
+.navbar .links{
+  margin-left: auto;
+}
+.home{
+  max-width: 600px;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+.navbar a{
+  color: red;
+  margin-left: auto;
+  padding:6px;
+  text-decoration: none;
+}
+.navbar a:hover{
+  color: rgb(128, 2, 2);
+  background-color: rgb(255, 66, 66);
+  border-radius: 10px;
+}
+.blog {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+}
+
+.blog:hover{
+  box-shadow: 1px 3px 5px gray;
+}
+
+.content{
+  max-width: 600px;
+  margin: 4px auto;
+  padding: 20px;
+
+}
+
+.blog-preview{
+  padding: 10px;
+  margin: 20px 0;
+  border-bottom: 2px solid #f2f2;
+}
+
+.blog-preview:hover{
+  box-shadow: 1px 3px 5px rgb(177, 17, 17)
+}
+
+.blog-preview h2{
+  font-size: 20px;
+  color: red;
+  margin-bottom: 8px;
+}
+
+.blog-preview a{
+  text-decoration: none;
+}
+
+/* blog detail */
+
+.blog-details div{
+  margin: 20px;
+}
+
+.blog-details h2{
+  font-size: 20px;
+  color:rgb(128, 2, 2);
+  margin-bottom: 10px;
+}
+
+.blog-details button{
+  background: rgb(255, 66, 66);
+  color: rgb(128, 2, 2);
+  border: 0;
+  padding: 8px;
+  border-radius:8px;
+  cursor: pointer;
+}
+
+/* create new blog */
+
+.create{
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.create label{
+  text-align: left;
+  display: block;
+}
+.create h2{
+  font-size: 20px;
+  color: rgb(177, 17, 17);
+  margin-bottom: 30px;
+}
+
+.create input, .create textarea, .create select{
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.create button{
+  background: rgb(255, 66, 66);
+  color: rgb(128, 2, 2);
+  border: 0;
+  padding: 8px;
+  border-radius:8px;
+  cursor: pointer;
+}
+
+.create button:hover{
+  background: rgb(255, 137, 137);
+}
+
